@@ -1,0 +1,230 @@
+.baniere {
+    width: 100%;
+    height: 66.5vh;
+    top: 13.3vh;
+    background-image: url(../Image/banmozan.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 15%;
+    color:  hsl(185, 86%, 94%);
+
+}
+.txt1{
+    background-color: rgb(36, 68, 92);
+    color: hsl(185, 86%, 94%);
+    width: 35%;
+    height: 100%;
+    border-radius: 2.7vh ;
+    display: block;
+    margin-left: 6%;
+    text-align: center;
+    font-size: xx-large;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    }
+    .part1{
+        background-color: #2d9bb9;
+        color: rgb(36, 68, 92);  
+        display: block;
+        margin-left: 15%;
+        text-align: center;
+        width: 18%;
+        border-radius: 2.7vh ;
+        margin-top: 5%;
+        margin-bottom: 1.5%;
+    }
+    
+    .part2{
+        background-color: #2d9bb9;
+        color: rgb(36, 68, 92);  
+        display: block;
+        margin-left: 60%;
+        text-align: center;
+        width: 18%;
+        border-radius: 2.7vh;
+        margin-top: 20%;
+        margin-bottom: 1.5%;
+    }
+    .txt2{
+    background-color: rgb(36, 68, 92);
+    color: hsl(185, 86%, 94%);
+    width: 35%;
+    height: 100%;
+    border-radius: 2.7vh ;
+    display: block;
+    margin-left: 52%;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    }
+    .part3{
+        background-color: #2d9bb9;
+        color: rgb(36, 68, 92);  
+        display: block;
+        margin-left: 15%;
+        text-align: center;
+        width: 18%;
+        border-radius: 2.7vh ;
+        margin-top: 2%;
+        margin-bottom: 1.5%;
+    }
+    .txt3{
+    background-color: rgb(36, 68, 92);
+    color: hsl(185, 86%, 94%);
+    width: 35%;
+    height: 100%;
+    border-radius: 2.7vh ;
+    display: block;
+    margin-left: 6%;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    }
+    .part4{
+        background-color: #2d9bb9;
+        color: rgb(36, 68, 92);  
+        display: block;
+        margin: auto;
+        text-align: center;
+        width: 18%;
+        border-radius: 2.7vh ;
+        margin-top: -35%;
+        margin-bottom: 1.5%;
+    }
+    .txt4{
+    background-color: rgb(36, 68, 92);
+    color: hsl(185, 86%, 94%);
+    width: 35%;
+    height: 100%;
+    border-radius: 2.7vh ;
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    }
+    
+    .part5{
+        background-color: #2d9bb9;
+        color: rgb(36, 68, 92);  
+        display: block;
+        margin: auto;
+        text-align: center;
+        width: 18%;
+        border-radius: 2.7vh ;
+        margin-bottom: 1.5%;
+        margin-top: 3%;
+    }
+    .txt5{
+    background-color: rgb(36, 68, 92);
+    color: hsl(185, 86%, 94%);
+    width: 35%;
+    height: 100%;
+    border-radius: 2.7vh ;
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 1%;
+    }
+    .img01{
+        margin-bottom: -75%;
+    }
+    .img02{
+        margin-bottom: -28%;
+    }
+    .img1{
+        
+        width: 15%;
+        display:block;
+        margin-right: 33.25vh;
+        position: relative;
+        border-radius: 3.3vh;
+        box-shadow: 0px 0px 2.7vh #3B413F;
+        left: 75%;
+       top: -47rem;
+      }
+    
+      .img2{
+        
+        width: 15%;
+        display:block;
+        position: relative;
+        border-radius: 3.3vh;
+        box-shadow: 0px 0px 2.7vh #3B413F;
+        left: 75%;
+        top: -45rem;
+      }
+      .img3{
+        width: 24.5%;
+        display:block;
+        position: relative;
+        border-radius: 3.3vh;
+        box-shadow: 0px 0px 2.7vh #3B413F;
+        left: 47%;
+        top: -77rem;
+      }
+      .img4{
+       
+        width: 17%;
+        display:block;
+        position: relative;
+        border-radius: 3.3vh;
+        box-shadow: 0px 0px 2.7vh #3B413F; 
+        left: 5% ; 
+        top: -27rem;
+      }
+      .img5{
+        width: 24.5%;
+        display:block;
+        position: relative;
+        border-radius: 3.3vh;
+        box-shadow: 0px 0px 2.7vh #3B413F;
+        left: 25% ; 
+        top: -45rem;
+      }
+      .img6{
+        width: 24.5%;
+        display:block;
+        position: relative;
+        border-radius: 3.3vh;
+        box-shadow: 0px 0px 2.7vh #3B413F;
+        left: 72%;
+         top: -40rem;
+      }
+      .img7{   
+        width: 24.5%;
+        display:block;
+        position: relative;
+        border-radius: 3.3vh;
+        box-shadow: 0px 0px 2.7vh #3B413F;
+        left: 57%;
+        top: -39.5rem;
+      }
+      .img8{
+        width: 24.5%;
+        display:block;
+        position: relative;
+        border-radius: 3.3vh;
+        box-shadow: 0px 0px 2.7vh #3B413F;
+        left: 42%;
+        top: -38.6rem;
+      }
+     
